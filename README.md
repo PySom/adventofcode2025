@@ -3,6 +3,7 @@ My submissions Advent of code 2025
 - Part two of day two was also challenging and the solution is inefficient. Will keep improving
 - Improved on day 3 but still slower
 - Improved on day 4 but need to think of a better solution
+- Day 5 part 2 has been the hardest so far, fixed it by adding test case for 9 - 21 as suggested by [Diligent-Error3772](https://www.reddit.com/user/Diligent-Error3772/). Thank you so much
 
 .NET version - 10
 
